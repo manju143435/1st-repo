@@ -1,2 +1,3 @@
 "jan, feb, mar, apr "
 "june, Juny, aug"
+"sunday , monday, tuesday"
