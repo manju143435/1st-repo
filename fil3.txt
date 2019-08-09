@@ -1,1 +1,2 @@
 "jan, feb, mar, apr "
+"june, Juny, aug"
